@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedblh7
-- 👀 I’m interested in Data Science and Football 
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on data analysis projetcs
 - 📫 How to reach me: ahmedbelhadj7@gmail.com
